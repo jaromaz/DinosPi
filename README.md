@@ -8,15 +8,15 @@ This project consists of the following auto-compiling and installing bash script
 * Apple \]\[ computer emulator **[linapple](https://linapple.sourceforge.net/screenshots.html)** supporting Apple \]\[, Apple \]\[+ , Apple //e, and enhanced Apple //e computers.
 * CP/M emulator
 * Altair/IMSAI emulator **[z80pack](https://www.autometer.de/unix4fun/z80pack/)** supporting Altair 8800 system with 8080 or Z80 CPU, IMSAI 8080 system with 8080 or Z80 CPU, generic Z80/8080 CPU emulation, emulation of a complete system for running CP/M 1, CP/M 2, CPM 3 and MP/M 2.
-* Information how to run *Raspberry Pi OS* in **dual-boot** with **[BMC64](https://accentual.com/bmc64/)**, the fastest *Commodore* emulator for *Raspberry Pi* (bare metal/low latency emulator).
-
-Apple-1, Apple \]\[ and CP/M emulators run in the CLI and can be installed on the latest version of Raspberry Pi OS Lite. The Altair-IMSAI part requires the full version of Raspberry Pi OS (but compilation is possible in the Lite version and in this version you can use the CP/M emulator).
-
-This project runs on Raspberry Pi Zero, Zero W, Zero 2 W, 2, 2B, 3, 3B, 3B+, 4, 400. Combined with a Raspberry Pi zero, 4GB SD Card and Raspberry Pi OS Lite, this is probably the cheapest option for emulating an Apple \]\[ computer (is a great tool for learning Applesoft BASIC). However, I strongly recommend the Raspberry Pi Zero 2W as a minimum.
+* **[Information](dual-boot/README.md)** how to run *Raspberry Pi OS* in **dual-boot** with **[BMC64](https://accentual.com/bmc64/)**, the fastest *Commodore* emulator for *Raspberry Pi* (bare metal/low latency emulator).
 
 Apple-1, Apple \]\[ and CP/M emulators can be run in CLI as well as in graphical mode:
 
 <p align="center"><img src="assets/img/imsai.png" width="70%"></p>
+
+Apple-1, Apple \]\[ and CP/M emulators run in the CLI and can be installed on the latest version of Raspberry Pi OS Lite. The Altair-IMSAI part requires the full version of Raspberry Pi OS (but compilation is possible in the Lite version and in this version you can use the CP/M emulator).
+
+This project runs on Raspberry Pi Zero, Zero W, Zero 2 W, 2, 2B, 3, 3B, 3B+, 4, 400. Combined with a Raspberry Pi zero, 4GB SD Card and Raspberry Pi OS Lite, this is probably the cheapest option for emulating an Apple \]\[ computer (is a great tool for learning Applesoft BASIC). However, I strongly recommend the Raspberry Pi Zero 2W as a minimum.
 
 ## Installation
 
