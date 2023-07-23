@@ -88,7 +88,7 @@ accessed by Ctrl+\<letter\>.
 
 ### Apple ][
 
-The window size can be defined in the ```/usr/share/dinos/linapple/linapple.conf``` configuration file in the ```Screen factor``` variable.
+The window size can be defined in the ```/usr/share/dinospi/linapple/linapple.conf``` configuration file in the ```Screen factor``` variable.
 
 <p align="center"><img src="assets/img/apple2.gif" width="70%"></p>
 
