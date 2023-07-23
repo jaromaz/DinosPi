@@ -23,6 +23,7 @@ This project runs on Raspberry Pi Zero, Zero W, Zero 2 W, 2, 2B, 3, 3B, 3B+, 4, 
 This part of project can be installed on a latest *Raspberry Pi OS Lite/Full (32-bit)*.
 
 *Raspberry Pi OS Lite (32-bit)* for 4GB SD card, can be installed from the *Raspberry Pi Imager* level by selecting: *Raspberry Pi OS (other) -> Raspberry Pi OS Lite (32-bit) -> CHOOSE STORAGE -> WRITE*.
+
 *Raspberry Pi OS (32-bit)* for 8GB SD card, can be installed from the *Raspberry Pi Imager* level by selecting: *Raspberry Pi OS (32-bit) -> CHOOSE STORAGE -> WRITE*.
 
 To activate the OpenGL drivers you need to run raspi-config from a terminal window.
