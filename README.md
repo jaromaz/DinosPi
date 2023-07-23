@@ -14,7 +14,7 @@ Apple-1, Apple \]\[ and CP/M emulators can be run in CLI as well as in graphical
 
 <p align="center"><img src="assets/img/imsai.png" width="70%"></p>
 
-Apple-1, Apple \]\[ and CP/M emulators run in the CLI and can be installed on the latest version of Raspberry Pi OS Lite. The Altair-IMSAI part requires the full version of Raspberry Pi OS (but compilation is possible in the Lite version and in this version you can use the CP/M emulator).
+Apple-1, Apple \]\[ and CP/M emulators run in the CLI and can be installed on the latest version of Raspberry Pi OS Lite. The Altair-IMSAI part requires the full version of Raspberry Pi OS (but compilation is possible in the Lite version and then you can use CLI CP/M emulator).
 
 This project runs on Raspberry Pi Zero, Zero W, Zero 2 W, 2, 2B, 3, 3B, 3B+, 4, 400. Combined with a Raspberry Pi zero, 4GB SD Card and Raspberry Pi OS Lite, this is probably the cheapest option for emulating an Apple \]\[ computer (is a great tool for learning Applesoft BASIC). However, I strongly recommend the Raspberry Pi Zero 2W as a minimum.
 
